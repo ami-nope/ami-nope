@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=170&section=header&text=Amiya%&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p
 
-<h3 align="center">AI/ML Student • Builder • Systems Thinker</h3>
+<p align="center">
+AI/ML Student • Builder • Systems Thinker
+</p>
 
 <p align="center">
 Building real-time systems, experimenting with AI, and turning ideas into working products.
