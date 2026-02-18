@@ -36,11 +36,8 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ami-nope&layout=compact&theme=midnight-purple)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ami-nope&show_icons=true&theme=midnight-purple&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ami-nope&theme=midnight-purple&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ami-nope&layout=compact&theme=midnight-purple&hide_border=true)
 
 
 ---
