@@ -1,46 +1,38 @@
-<h1 align="center">Hi 👋, I'm Amiya</h1>
-<h3 align="center">CSE (AI/ML) Student | Builder | Learning Everyday</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Student;Future+Engineer;Building+Cool+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Amiya%20Kumar%20Panda&fontSize=30&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">AI/ML Student • Builder • Curious Human</h3>
+
+---
+
+I like building small tools, experimenting with AI, and turning ideas into working things.
+Currently studying Computer Science (AI/ML).
+
+---
+
+### Things I build with
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,git,linux,vscode" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 CSE AI/ML student at KIIT
-- 💡 Interested in AI, apps, and startups
-- 🎮 Gamer mindset + builder mindset
-- 🧠 Currently learning Python, C++, and AI tools
+### GitHub activity
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ami-nope&theme=github_dark&show_icons=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ami-nope&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge)
+### Current focus
+- Learning AI/ML fundamentals
+- Building small real-world tools
+- Exploring startup ideas
 
 ---
 
-### 🚀 Projects
-- Soundboard App
-- AI PPT Generator
-- Video Editing Service Website
-- More coming soon...
-
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ami-nope&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=ami-nope&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ami-nope&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-- Instagram: @ami_nope.
-- Email: amiyapanda2005@gmail.com
+<p align="center">
+“Build first. Optimize later.”
+</p>
