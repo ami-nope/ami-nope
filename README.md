@@ -12,7 +12,7 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE (AI/ML) student at KIIT Bhubaneswar  
+- 🎓 CSE (AI/ML) student at Kalinga Institute of Industrial Technology Bhubaneswar  
 - 🧠 Interested in AI systems, apps, and startups  
 - 🎮 Gamer mindset → builder mindset  
 - 🚀 Currently learning Python, C++, databases, and AI tools  
