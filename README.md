@@ -23,12 +23,17 @@
 
 ---
 
-### 🚀 Projects
-- Soundboard App
--A Transit System for College Campuses with interfaces for Students/Drivers/Admins
+### 🚀 Projects## Projects
+
+<a href="https://github.com/ami-nope/Campus-Transport-System" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20Transit%20App-Campus%20Transport%20System-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/ami-nope/SoundboardEZ" target="_blank">
+  <img src="https://img.shields.io/badge/Easy%20Remote%20Soundboard-SoundboardEZ-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 
-## GitHub Stats
 
 ## GitHub Stats
 
@@ -44,7 +49,6 @@
 
 ### 📫 Connect With Me
 
-## Contact## Contact
 
 <a href="https://www.linkedin.com/in/aminope/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-aminope-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
