@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CSE AI/ML student at KIIT
+- 🎓 CSE AI/ML student at Kalinga Institute of Industrial Technology
 - 💡 Interested in AI, apps, and startups
 - 🎮 Gamer mindset + builder mindset
-- 🧠 Currently learning Python, C++, and AI tools
+- 🧠 Currently learning Python, C++, Databases,  and AI tools
 
 ---
 
@@ -43,5 +43,9 @@
 ---
 
 ### 📫 Connect With Me
-- Instagram: @ami_nope.
-- Email: amiyapanda2005@gmail.com
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Send%20Mail-Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiyapanda2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aminope-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminope/)
+[![Instagram](https://img.shields.io/badge/Instagram-ami__nope-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ami_nope/)
