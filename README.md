@@ -20,17 +20,13 @@
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge)
 
 ---
 
 ### 🚀 Projects
 - Soundboard App
-- AI PPT Generator
-- Video Editing Service Website
-- More coming soon...
+-A Transit System for College Campuses with interfaces for Students/Drivers/Admins
 
----
 
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ami-nope&show_icons=true&theme=tokyonight)
