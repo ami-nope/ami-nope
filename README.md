@@ -44,8 +44,17 @@
 
 ### 📫 Connect With Me
 
-## Contact
+## Contact## Contact
 
-[![Email](https://img.shields.io/badge/Send%20Mail-Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiyapanda2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aminope-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminope/)
-[![Instagram](https://img.shields.io/badge/Instagram-ami__nope-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ami_nope/)
+<a href="https://www.linkedin.com/in/aminope/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-aminope-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/ami_nope/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-ami__nope-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:amiyapanda2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
