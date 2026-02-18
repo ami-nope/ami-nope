@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=170&section=header&text=Amiya%&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=170&section=header&text=Amiya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <p align="center">
 AI/ML Student • Builder • Systems Thinker
