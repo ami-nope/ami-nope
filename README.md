@@ -38,6 +38,9 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
   <a href="https://github.com/ami-nope/SoundboardEZ">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=SoundboardEZ&theme=midnight-purple&hide_border=true"/>
   </a>
+    <a href="[https://github.com/ami-nope/AudioBit]">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=AudioBit&theme=midnight-purple&hide_border=true"/>
+  </a>
 </p>
 
 ---
