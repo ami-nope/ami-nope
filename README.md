@@ -32,13 +32,13 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 
 <p align="center">
   <a href="https://github.com/ami-nope/Campus-Transport-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=Campus-Transport-System&theme=midnight-purple&hide_border=true&v=1"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=Campus-Transport-System&theme=midnight-purple&hide_border=true&v=1&cache_seconds=1"/>
   </a>
   <a href="https://github.com/ami-nope/SoundboardEZ">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=SoundboardEZ&theme=midnight-purple&hide_border=true&v=1"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=SoundboardEZ&theme=midnight-purple&hide_border=true&v=1&cache_seconds=1"/>
   </a>
     <a href="https://github.com/ami-nope/AudioBit">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=AudioBit&theme=midnight-purple&hide_border=true&v=1"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=AudioBit&theme=midnight-purple&hide_border=true&v=1&cache_seconds=1"/>
   </a>
 </p>
 
