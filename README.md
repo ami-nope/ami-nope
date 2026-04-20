@@ -12,11 +12,11 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 CSE (AI/ML) student at KIIT Bhubaneswar  
-- 🧠 Interested in AI systems, apps, and startups   
-- 🚀 Currently learning Python, C++, databases, and AI tools  
+- CSE (AI/ML) student at KIIT Bhubaneswar  
+- Interested in AI systems, apps, and startups   
+- Currently learning Python, C++, databases, and AI tools  
 
 ---
 
@@ -28,7 +28,7 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <p align="center">
   <a href="https://github.com/ami-nope/Campus-Transport-System">
@@ -44,7 +44,7 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ami-nope&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
@@ -53,7 +53,7 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 
 ---
 
-## 📬 Connect
+## Connect
 
 <p align="center">
   <a href="mailto:amiyapanda2005@gmail.com">
