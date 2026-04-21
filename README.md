@@ -22,9 +22,9 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 ---
 <p align="center">
 Currently working on:<br>
-Experimental Remote Audio Interface (Windows, Android, Web)<br>
-Soundboard app for streamers & gamers<br>
-AI-powered fitness tracker for Indian lifestyle
+●Experimental Remote Audio Interface (Windows, Android, Web)<br>
+●Soundboard app for streamers & gamers<br>
+●AI-powered fitness tracker for Indian lifestyle
 </p>
 
 ---
