@@ -32,7 +32,7 @@ Currently working on:<br>
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,cpp,js,dotnet,html,kotlin,pr,github,git,figma,blender,discord&theme=dark" />
 </p>
 
 ---
