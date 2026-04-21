@@ -18,6 +18,15 @@ Building real-time systems, experimenting with AI, and turning ideas into workin
 - Interested in AI systems, apps, and startups   
 - Currently learning Python, C++, databases, and AI tools  
 
+
+---
+<p align="center">
+Currently working on 
+    Experimental Remote Audio Interface for Windows ,Android and Web 
+    A Soundboard App for streamers and gamers
+    A Fitness Tracker for Indian Lifestyle with AI integration
+</p>
+
 ---
 
 ## 🛠 Tech Stack
