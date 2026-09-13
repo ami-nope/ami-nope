@@ -41,13 +41,13 @@ Currently working on:<br>
 
 <p align="center">
   <a href="https://github.com/ami-nope/Campus-Transport-System">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=Campus-Transport-System&theme=midnight-purple&hide_border=true&v=1&cache_seconds=1"/>
+    <img src="https://img.shields.io/github/stars/ami-nope/Campus-Transport-System?style=for-the-badge&label=Campus%20Transport%20System&color=8A2BE2"/>
   </a>
   <a href="https://github.com/ami-nope/SoundboardEZ">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=SoundboardEZ&theme=midnight-purple&hide_border=true&v=1&cache_seconds=1"/>
+    <img src="https://img.shields.io/github/stars/ami-nope/SoundboardEZ?style=for-the-badge&label=SoundboardEZ&color=8A2BE2"/>
   </a>
-    <a href="https://github.com/ami-nope/AudioBit">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ami-nope&repo=AudioBit&theme=midnight-purple&hide_border=true&v=1&cache_seconds=1"/>
+  <a href="https://github.com/ami-nope/AudioBit">
+    <img src="https://img.shields.io/github/stars/ami-nope/AudioBit?style=for-the-badge&label=AudioBit&color=8A2BE2"/>
   </a>
 </p>
 
@@ -56,8 +56,12 @@ Currently working on:<br>
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ami-nope&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ami-nope&layout=compact&theme=midnight-purple&hide_border=true" height="160"/>
+  <a href="https://github.com/ami-nope">
+    <img src="https://img.shields.io/github/followers/ami-nope?style=for-the-badge&label=Followers&color=8A2BE2"/>
+  </a>
+  <a href="https://github.com/ami-nope?tab=stars">
+    <img src="https://img.shields.io/github/stars/ami-nope?style=for-the-badge&label=Total%20stars&color=8A2BE2"/>
+  </a>
 </p>
 
 ---
