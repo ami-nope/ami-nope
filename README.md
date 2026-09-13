@@ -62,6 +62,9 @@ Currently working on:<br>
   <a href="https://github.com/ami-nope?tab=stars">
     <img src="https://img.shields.io/github/stars/ami-nope?style=for-the-badge&label=Total%20stars&color=8A2BE2"/>
   </a>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ami-nope&theme=midnight_purple" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ami-nope&theme=midnight_purple" height="180"/>
 </p>
 
 ---
